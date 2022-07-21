@@ -25,3 +25,8 @@ YEAR
 Demographics
 - Race
 - Income
+
+
+### Updates
+
+DD added the file with info about traditional vs appointed and alternative LSCs to the directory; can be joined with the others based on School ID
